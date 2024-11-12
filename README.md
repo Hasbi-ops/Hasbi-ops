@@ -2,4 +2,5 @@
 + #kelas: Rpl 1c
 + #Nim:2415855
 
++ print("tugas ltik")
 
